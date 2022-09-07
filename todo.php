@@ -6,7 +6,7 @@ $table = "todo_list";
  
 echo "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css\">
 <div class=\"jumbotron text-center\">
-        <h2>TO-DO LIST</h1>
+        <h2>James TO-DO LIST</h1>
         <p>My To-Do list powered by MySQL DB!</p>
     </div>";
 	
